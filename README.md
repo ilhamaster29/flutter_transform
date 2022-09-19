@@ -4,18 +4,18 @@
 
 ## Praktikum Manipulasi Widget
 
-- Buat Project Baru
+- Buat Project Baru<br>
 ![Screenshot](images/project_baru_flutter_transform.png)
 ![Screenshot](images/github_flutter_transform.png)
 
-- Impor dart:math
+- Impor dart:math<br>
 ![Screenshot](images/import_dart-math.png)
 
-- Tambahkan kode Transform
+- Tambahkan kode Transform<br>
 ![Screenshot](images/widget_transform.png)
 ![Screenshot](images/widget_transform2.png)
 
-- Running project
+- Running project<br>
 ![Screenshot](images/running_praktikum.png)
 
 
