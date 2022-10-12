@@ -22,4 +22,7 @@ Terdapat 4 variasi widget transform dalam project kali ini. Yang pertama rotasi,
 ![Screenshot](images/running_praktikum.png)
 > Pada hasil running terdapat banyak button yang saling bertumpukan dengan posisi yang berbeda beda. 
 
+## Perspektif di Flutter
+![Screenshot](images/perspective.png)
+> Pada hasil running, user dapat menggerakkan tampilan sehingga tampak seperti gambar diatas. Ketika layar di tap 2 kali, maka tampilan akan kembali seperti semula (saat awal dijalankan tanpa adanya action / perlakuan).
 
